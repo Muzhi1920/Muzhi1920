@@ -2,7 +2,7 @@
 <div align="left">
 
 
-<img align="right" alt="GIF" src="https://github.com/Muzhi1920/Muzhi1920/blob/main/coding.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://github.com/Muzhi1920/Muzhi1920/blob/main/coding.gif" width="350" height="290" />
  
 [![](	https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://11010101.xyz)
 [![](https://img.shields.io/badge/Zhihu-005989?style=for-the-badge&logo=About.me&logoColor=white)](https://www.zhihu.com/column/c_1432753427968999424)
