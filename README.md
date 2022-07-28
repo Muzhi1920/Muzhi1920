@@ -21,6 +21,9 @@ I code with :  👇
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/> <img src="https://img.shields.io/badge/Spark-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
+
+Paper：[Dynamic Knowledge Distillation With Noise Elimination for RGB-D Salient Object Detection](https://arxiv.org/abs/2106.09517)
+
 ## 📊 Github stats
 
 <details> 
