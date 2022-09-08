@@ -22,7 +22,7 @@ I code with :  👇
 </p>
 
 
-Paper：[Dynamic Knowledge Distillation With Noise Elimination for RGB-D Salient Object Detection](https://ui.adsabs.harvard.edu/abs/2022Senso..22.6188R%2F/abstract)
+Paper：[Dynamic Knowledge Distillation With Noise Elimination for RGB-D Salient Object Detection](https://www.mdpi.com/1424-8220/22/16/6188)
 
 ## 📊 Github stats
 
